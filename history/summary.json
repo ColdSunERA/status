@@ -4,17 +4,19 @@
     "url": "https://www.resetera.com",
     "icon": "https://favicons.githubusercontent.com/www.resetera.com",
     "slug": "reset-era",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 360,
+    "time": 359,
     "timeDay": 332,
-    "timeWeek": 470,
-    "timeMonth": 360,
-    "timeYear": 360,
-    "dailyMinutesDown": {}
+    "timeWeek": 411,
+    "timeMonth": 359,
+    "timeYear": 359,
+    "dailyMinutesDown": {
+      "2022-02-13": 0
+    }
   }
 ]
