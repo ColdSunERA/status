@@ -5,18 +5,16 @@
     "icon": "https://favicons.githubusercontent.com/www.resetera.com",
     "slug": "reset-era",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.19%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.99%",
-    "time": 305,
-    "timeDay": 260,
-    "timeWeek": 216,
-    "timeMonth": 219,
-    "timeYear": 305,
-    "dailyMinutesDown": {
-      "2022-03-29": 12
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 304,
+    "timeDay": 213,
+    "timeWeek": 217,
+    "timeMonth": 218,
+    "timeYear": 304,
+    "dailyMinutesDown": {}
   }
 ]
