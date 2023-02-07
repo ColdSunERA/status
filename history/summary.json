@@ -5,22 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.resetera.com.ico",
     "slug": "reset-era",
     "status": "up",
-    "uptime": "99.95%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.95%",
+    "uptimeYear": "100.00%",
     "time": 251,
-    "timeDay": 189,
-    "timeWeek": 207,
+    "timeDay": 186,
+    "timeWeek": 208,
     "timeMonth": 225,
-    "timeYear": 248,
-    "dailyMinutesDown": {
-      "2022-07-02": 50,
-      "2022-06-30": 149,
-      "2022-06-29": 17,
-      "2022-06-21": 59
-    }
+    "timeYear": 246,
+    "dailyMinutesDown": {}
   },
   {
     "name": "EGO Ninja",
@@ -33,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 228,
-    "timeDay": 228,
-    "timeWeek": 228,
-    "timeMonth": 228,
-    "timeYear": 228,
+    "time": 211,
+    "timeDay": 211,
+    "timeWeek": 211,
+    "timeMonth": 211,
+    "timeYear": 211,
     "dailyMinutesDown": {}
   }
 ]
