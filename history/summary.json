@@ -22,17 +22,19 @@
     "url": "https://www.ego.ninja",
     "icon": "https://icons.duckduckgo.com/ip3/www.ego.ninja.ico",
     "slug": "ego-ninja",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 229,
-    "timeDay": 82,
-    "timeWeek": 290,
-    "timeMonth": 224,
-    "timeYear": 229,
-    "dailyMinutesDown": {}
+    "time": 228,
+    "timeDay": 139,
+    "timeWeek": 278,
+    "timeMonth": 223,
+    "timeYear": 228,
+    "dailyMinutesDown": {
+      "2023-05-15": 0
+    }
   }
 ]
