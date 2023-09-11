@@ -4,11 +4,11 @@
     "url": "https://www.resetera.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.resetera.com.ico",
     "slug": "reset-era",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.83%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
     "time": 237,
     "timeDay": 195,
@@ -16,7 +16,7 @@
     "timeMonth": 262,
     "timeYear": 236,
     "dailyMinutesDown": {
-      "2023-09-11": 0
+      "2023-09-11": 17
     }
   },
   {
