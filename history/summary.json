@@ -10,12 +10,14 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 238,
+    "time": 237,
     "timeDay": 195,
     "timeWeek": 241,
     "timeMonth": 262,
     "timeYear": 236,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-09-11": 0
+    }
   },
   {
     "name": "EGO Ninja",
