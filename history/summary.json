@@ -6,14 +6,14 @@
     "slug": "reset-era",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "98.83%",
+    "uptimeDay": "98.82%",
     "uptimeWeek": "99.83%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
     "time": 237,
-    "timeDay": 195,
+    "timeDay": 217,
     "timeWeek": 241,
-    "timeMonth": 262,
+    "timeMonth": 261,
     "timeYear": 236,
     "dailyMinutesDown": {
       "2023-09-11": 17
