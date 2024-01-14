@@ -4,7 +4,7 @@
     "url": "https://www.resetera.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.resetera.com.ico",
     "slug": "reset-era",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 292,
     "timeYear": 251,
     "dailyMinutesDown": {
+      "2024-01-14": 0,
       "2023-09-11": 17
     }
   },
@@ -25,11 +26,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.ego.ninja.ico",
     "slug": "ego-ninja",
     "status": "up",
-    "uptime": "86.06%",
+    "uptime": "86.09%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "86.06%",
+    "uptimeYear": "86.09%",
     "time": 275,
     "timeDay": 368,
     "timeWeek": 301,
