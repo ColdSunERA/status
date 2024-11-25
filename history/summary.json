@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 306,
-    "timeDay": 231,
-    "timeWeek": 308,
-    "timeMonth": 312,
-    "timeYear": 318,
+    "time": 307,
+    "timeDay": 403,
+    "timeWeek": 321,
+    "timeMonth": 317,
+    "timeYear": 319,
     "dailyMinutesDown": {
       "2024-08-29": 20,
       "2024-03-27": 32,
@@ -27,15 +27,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.ego.ninja.ico",
     "slug": "ego-ninja",
     "status": "up",
-    "uptime": "92.74%",
+    "uptime": "92.75%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
-    "uptimeYear": "94.98%",
-    "time": 352,
-    "timeDay": 516,
-    "timeWeek": 449,
-    "timeMonth": 385,
+    "uptimeYear": "95.26%",
+    "time": 353,
+    "timeDay": 390,
+    "timeWeek": 418,
+    "timeMonth": 387,
     "timeYear": 364,
     "dailyMinutesDown": {
       "2024-11-12": 20,
@@ -57,8 +57,7 @@
       "2023-11-30": 1440,
       "2023-11-29": 1440,
       "2023-11-28": 1440,
-      "2023-11-27": 1440,
-      "2023-11-26": 1440
+      "2023-11-27": 1440
     }
   }
 ]
