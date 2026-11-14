@@ -4,16 +4,16 @@
     "url": "https://www.resetera.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.resetera.com.ico",
     "slug": "reset-era",
-    "status": "down",
+    "status": "up",
     "uptime": "99.88%",
-    "uptimeDay": "96.82%",
-    "uptimeWeek": "99.55%",
-    "uptimeMonth": "94.28%",
-    "uptimeYear": "99.46%",
+    "uptimeDay": "88.48%",
+    "uptimeWeek": "98.35%",
+    "uptimeMonth": "94.01%",
+    "uptimeYear": "99.44%",
     "time": 247,
-    "timeDay": 23,
+    "timeDay": 101,
     "timeWeek": 186,
-    "timeMonth": 283,
+    "timeMonth": 280,
     "timeYear": 223,
     "dailyMinutesDown": {
       "2025-11-18": 160,
@@ -22,7 +22,7 @@
       "2026-10-28": 1180,
       "2026-10-27": 777,
       "2026-10-29": 500,
-      "2026-11-14": 46
+      "2026-11-14": 166
     }
   },
   {
@@ -42,7 +42,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-11-14": 220,
+      "2026-11-14": 340,
       "2026-11-13": 1440,
       "2026-11-12": 1440,
       "2026-11-11": 1440,
