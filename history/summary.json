@@ -5,13 +5,13 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.resetera.com.ico",
     "slug": "reset-era",
     "status": "down",
-    "uptime": "99.89%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "94.39%",
-    "uptimeYear": "99.47%",
+    "uptime": "99.88%",
+    "uptimeDay": "96.82%",
+    "uptimeWeek": "99.55%",
+    "uptimeMonth": "94.28%",
+    "uptimeYear": "99.46%",
     "time": 247,
-    "timeDay": 134,
+    "timeDay": 23,
     "timeWeek": 186,
     "timeMonth": 283,
     "timeYear": 223,
@@ -22,7 +22,7 @@
       "2026-10-28": 1180,
       "2026-10-27": 777,
       "2026-10-29": 500,
-      "2026-11-14": 0
+      "2026-11-14": 46
     }
   },
   {
@@ -31,7 +31,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.ego.ninja.ico",
     "slug": "ego-ninja",
     "status": "down",
-    "uptime": "47.02%",
+    "uptime": "47.01%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -42,7 +42,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-11-14": 175,
+      "2026-11-14": 220,
       "2026-11-13": 1440,
       "2026-11-12": 1440,
       "2026-11-11": 1440,
