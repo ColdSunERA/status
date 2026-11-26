@@ -4,17 +4,17 @@
     "url": "https://www.resetera.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.resetera.com.ico",
     "slug": "reset-era",
-    "status": "up",
+    "status": "down",
     "uptime": "99.77%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "82.44%",
     "uptimeMonth": "87.73%",
     "uptimeYear": "98.94%",
     "time": 238,
-    "timeDay": 144,
-    "timeWeek": 146,
-    "timeMonth": 198,
-    "timeYear": 218,
+    "timeDay": 85,
+    "timeWeek": 137,
+    "timeMonth": 194,
+    "timeYear": 217,
     "dailyMinutesDown": {
       "2026-04-10": 57,
       "2026-04-22": 120,
@@ -27,7 +27,8 @@
       "2026-11-20": 523,
       "2026-11-22": 317,
       "2026-11-23": 541,
-      "2026-11-24": 389
+      "2026-11-24": 389,
+      "2026-11-26": 0
     }
   },
   {
@@ -36,7 +37,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.ego.ninja.ico",
     "slug": "ego-ninja",
     "status": "down",
-    "uptime": "46.61%",
+    "uptime": "46.58%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -47,7 +48,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-11-26": 334,
+      "2026-11-26": 1388,
       "2026-11-25": 1440,
       "2026-11-24": 1440,
       "2026-11-23": 1440,
