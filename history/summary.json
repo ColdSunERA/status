@@ -6,13 +6,13 @@
     "slug": "reset-era",
     "status": "up",
     "uptime": "99.76%",
-    "uptimeDay": "76.43%",
-    "uptimeWeek": "79.92%",
-    "uptimeMonth": "86.96%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "84.26%",
+    "uptimeMonth": "89.42%",
     "uptimeYear": "98.88%",
     "time": 238,
-    "timeDay": 122,
-    "timeWeek": 149,
+    "timeDay": 172,
+    "timeWeek": 133,
     "timeMonth": 193,
     "timeYear": 217,
     "dailyMinutesDown": {
@@ -38,7 +38,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.ego.ninja.ico",
     "slug": "ego-ninja",
     "status": "down",
-    "uptime": "46.57%",
+    "uptime": "46.54%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -49,7 +49,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-11-27": 328,
+      "2026-11-28": 304,
+      "2026-11-27": 1440,
       "2026-11-26": 1440,
       "2026-11-25": 1440,
       "2026-11-24": 1440,
@@ -412,8 +413,7 @@
       "2025-12-02": 1440,
       "2025-12-01": 1440,
       "2025-11-30": 1440,
-      "2025-11-29": 1440,
-      "2025-11-28": 1440
+      "2025-11-29": 1440
     }
   }
 ]
